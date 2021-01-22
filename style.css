@@ -18,11 +18,11 @@ body {
     
     
 }
-div {
+.container{
     background-color: white;
-    padding-left: 100px;
+    padding-left: 5vw;
     padding-bottom: 800px;
-    padding-right: 100px;
+    padding-right: 5vw;
    
 }
 h1 {
@@ -40,9 +40,15 @@ p {
     padding-right: 0;
     
 }
+.container-dogs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 .dog {
-    display: grid;
-    grid-template-columns: 200px 200px 200px;
-   
-   
+   width: 33%; 
+}
+.dog img{
+    width: 100%;
 }
