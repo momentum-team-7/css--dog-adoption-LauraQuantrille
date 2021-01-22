@@ -1,0 +1,48 @@
+header {
+    font-family: "Open Sans";
+    font-weight: bold;
+    color: white;
+    border-bottom: 2px solid #89DEEF;
+    background-color: #004175;
+    padding: 20px;
+    vertical-align: top;
+    
+    
+}
+body {
+    background-color: #DDDADA;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    
+    
+}
+div {
+    background-color: white;
+    padding-left: 100px;
+    padding-bottom: 800px;
+    padding-right: 100px;
+   
+}
+h1 {
+    margin:0;
+    font-family: "Open Sans";
+    font-size: 18px;
+    padding-top: 15px;
+   
+    
+    
+}
+p {
+    font-family: "Open Sans";
+    font-size: 10px;
+    padding-right: 0;
+    
+}
+.dog {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+   
+   
+}
