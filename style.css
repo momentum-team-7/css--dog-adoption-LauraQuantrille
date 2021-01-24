@@ -22,9 +22,9 @@ body {
 }
 .container{
     background-color: white;
-    padding-left: 5vw;
-    padding-bottom: 30px;
-    padding-right: 5vw;
+    /* padding-left: 5vw; */
+    /* padding-bottom: 30px; */
+    /* padding-right: 5vw; */
    
 }
 h1 {
@@ -32,18 +32,23 @@ h1 {
     font-family: "Open Sans";
     font-size: 15px;
     padding-top: 15px;
+    padding-left: 5vw;
+
     
 }
 p {
     font-family: "Open Sans";
     font-size: 10px;
     padding-right: 0;
+    padding-left: 5vw;
     
 }
 .container-dogs {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding-right: 5vw;
+    padding-left: 5vw;
 }
 
 .dog {
