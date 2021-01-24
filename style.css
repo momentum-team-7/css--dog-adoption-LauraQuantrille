@@ -91,21 +91,39 @@ h3 {
 .footer-photo {
     height: 100%;
     width: 33.3%;
-    background-size: cover;
+    
 }
 
 #donate {
-    background-color: #A6A9F0;
-    background-image: url("starter_files/images/donate.jpg");
+
+    background:
+    linear-gradient( 
+        rgba(166, 169, 240, 0.5),
+        rgba(166, 169, 240, 0.5)),
+        url("starter_files/images/donate.jpg");
+        background-size: cover;
+    
     
 }
 
 #volunteer {
-    background-image: url("starter_files/images/volunteer.jpg");
+    background: 
+    linear-gradient(
+    rgba(166, 169, 240, 0.5),
+    rgba(166, 169, 240, 0.5)),
+    url("starter_files/images/volunteer.jpg");
+   background-size: cover;
+
 }
 #location {
-    background-image: url("starter_files/images/location.png");
+    background: 
+    linear-gradient(
+    rgba(166, 169, 240, 0.5),
+    rgba(166, 169, 240, 0.5)),
+    url("starter_files/images/location.png");
+   background-size: cover;
 }
+
 h2 {
     font-family: "Oswald";
     font-size: 25px;
