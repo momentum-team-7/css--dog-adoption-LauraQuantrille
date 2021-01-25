@@ -22,9 +22,7 @@ body {
 }
 .container{
     background-color: white;
-    /* padding-left: 5vw; */
-    /* padding-bottom: 30px; */
-    /* padding-right: 5vw; */
+
    
 }
 h1 {
@@ -103,8 +101,8 @@ h3 {
 
     background:
     linear-gradient( 
-        rgba(166, 169, 240, 0.5),
-        rgba(166, 169, 240, 0.5)),
+        rgba(166, 169, 240, 0.7),
+        rgba(166, 169, 240, 0.7)),
         url("starter_files/images/donate.jpg");
         background-size: cover;
     
@@ -114,8 +112,8 @@ h3 {
 #volunteer {
     background: 
     linear-gradient(
-    rgba(166, 169, 240, 0.5),
-    rgba(166, 169, 240, 0.5)),
+    rgba(166, 169, 240, 0.7),
+    rgba(166, 169, 240, 0.7)),
     url("starter_files/images/volunteer.jpg");
    background-size: cover;
 
@@ -123,8 +121,8 @@ h3 {
 #location {
     background: 
     linear-gradient(
-    rgba(166, 169, 240, 0.5),
-    rgba(166, 169, 240, 0.5)),
+    rgba(166, 169, 240, 0.7),
+    rgba(166, 169, 240, 0.7)),
     url("starter_files/images/location.png");
    background-size: cover;
 }
